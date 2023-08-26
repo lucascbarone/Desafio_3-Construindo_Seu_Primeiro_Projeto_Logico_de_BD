@@ -1,12 +1,12 @@
 # Desafio de Projeto do Curso da DIO: Potência Tech powered by iFood | Ciência de Dados
-## Desafio 3: Construindo Seu Primeiro Projeto LÓgico de Banco de Dados
+## Desafio 3: Construindo Seu Primeiro Projeto Lógico de Banco de Dados
 ### Objetivo
 Recriar o projeto de e-commerce fazendo melhorias, criando queries e persistindo dados.
 
 ### Diretrizes Gerais
 - Mapeamento do esquema ER para Relacional.
 > Fazer o diagrama adicionando atributos que estão faltando, possuem tamanho inconsistente com a sua definição no script SQL, possuem parâmetros e valores default faltando e corrigindo atributos declarados com tipo de dado inconsistente.
-- Definiçãp dp script SQL para criação do esquema de banco de dados.
+- Definição do script SQL para criação do esquema de banco de dados.
 > Fazer o script SQL para definir o esquema de banco de dados, adicionando nova tabela e alterando tabelas existentes.
 - Persistência de dados para testes
 > Persistir os dados testes do projeto original, inserindo novos valores para novos testes.
